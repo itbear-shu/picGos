@@ -1,3 +1,3 @@
 # picGos
-nothing here！
-图片上传仓库
+Nothing here！
+图片上传仓库 -- 图床.
